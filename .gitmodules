@@ -1,0 +1,3 @@
+[submodule "src/commonModules"]
+	path = src/commonModules
+	url = https://github.com/wanglidan6543/git-sub.git
